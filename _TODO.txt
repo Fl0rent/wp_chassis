@@ -1,0 +1,65 @@
+                   ------------------------------
+                            WP-FRAMEWORK
+                                TODO
+                   ------------------------------
+
+Les étapes à réaliser pendant la création de son thème à partir du framework.
+
+
+Avant la mise en ligne
+=====================
+
+
+Titre:
+
+ - todo
+
+
+Titre:
+
+ - todo
+
+
+Titre:
+
+ - todo
+
+
+Titre:
+
+ - todo
+ - todo
+
+
+En ligne
+=====================
+
+
+Titre:
+
+ - todo
+ - todo
+ - todo
+ - todo
+ - todo
+
+
+Titre:
+
+ - todo
+ - todo
+ - todo
+ - todo
+ - todo
+ - todo
+
+
+Titre:
+
+ - todo
+ - todo
+ - todo
+ - todo
+ - todo
+ - todo
+
