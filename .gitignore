@@ -13,5 +13,4 @@ wp-content/cache/*
 wp-content/cache/supercache/*
 sitemap.xml
 sitemap.xml.gz
-readme.html
-license.txt
+
