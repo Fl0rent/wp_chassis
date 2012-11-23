@@ -12,9 +12,9 @@ Avant la mise en ligne
 
 Titre:
 
- - todo
-
-
+ - Ajouter l'url correct dans le header, pour le fichier reset.
+ - Remplacer le fichier screenshot.png par une capture d'écran du site.
+ 
 Titre:
 
  - todo
