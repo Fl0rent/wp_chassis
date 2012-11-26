@@ -13,7 +13,7 @@ Avant la mise en ligne
 Titre:
 
  - Ajouter l'url correct dans le header, pour le fichier reset.
- - Remplacer le fichier screenshot.png par une capture d'écran du site.
+ - Remplacer le fichier screenshot.png par une capture d'écran du site (taille :300x225).
  
 Titre:
 

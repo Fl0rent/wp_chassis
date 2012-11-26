@@ -14,7 +14,7 @@
 		<link rel="pingback" href="<?php bloginfo('pingback_url'); ?>" />
 		
 		<!-- ajout du fichier reset -->
-			<link rel="stylesheet" href="#/reset.css" />		
+			<link rel="stylesheet" href="style/reset.css" />		
 		<!-- Google fonts -->
 
         <!-- Ajout de Favicon -->
@@ -38,3 +38,11 @@
     <body>
         <div id="page">
         <!-- Intégralité de la page -->
+            <header>
+            <!-- l'entête du site -->
+            	
+            </header>
+        
+            <section>
+            <!-- ouverture de la section -->
+            
