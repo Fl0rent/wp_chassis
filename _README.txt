@@ -8,8 +8,10 @@ création de site HTML5 propre.
 Le fichier function.php sera le plus neutre possible; pour 
 l'améliorer à sa sauce il suffira d'y ajouter des raccourcis.
 
-Se servir du wp-framework comme base, puis créer un thème comme 
+Se servir du wp-framework comme base, puis créer un thème 
 enfant du framework.
+Par exemple pour la page d'accueil.
+
 
 
 *****************************************************************
