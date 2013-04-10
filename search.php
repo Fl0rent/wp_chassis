@@ -1,9 +1,9 @@
 <?php get_header(); ?>
 
 <!-- debut div contenu -->
-<section id="page-blanche">
+<div id="page">											<!--À MODIFIER!!-->
 
-<div id="contenu">
+<div id="corps">											<!--À MODIFIER!!-->
 	<?php if ( have_posts() ) : ?>
 		<h4 class="page-title"><?php printf( __( 'Résultat(s) de la recherche pour : %s' ), '<span style="color: #0088CC">' . get_search_query() . '</span>');?></h4>
 				<?php while(have_posts()) : the_post(); ?>
@@ -35,7 +35,7 @@
 	//multi_pages_navi();
 	pages_prec_suiv();
 	?>
-</div><!-- fin div contenu -->
+</div><!-- fin div corps -->
 
 <?php get_sidebar(); ?>
 <?php get_footer(); ?>

@@ -36,13 +36,15 @@
 
 
     <body>
-        <div id="page">
-        <!-- Intégralité de la page -->
+
+<div id="page">
+	        <!-- Intégralité de la page -->
             <header>
             <!-- l'entête du site -->
             	
             </header>
+            
+	<div id="corps">
+
         
-            <section>
-            <!-- ouverture de la section -->
             

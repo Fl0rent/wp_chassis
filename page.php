@@ -1,16 +1,17 @@
 <?php get_header(); ?>
 
 <!-- debut div contenu -->
-<section id="page-blanche">
+<div id="page">											
 
-<div id="contenu">
+
+<div id="corps">											
 <?php fil_ariane();?>
 
 	<?php if(have_posts()) : while(have_posts()) : the_post(); ?>
 
-		<div class="post" id="post-<?php the_ID(); ?>">
+		<div class="post" id="post-<?php the_ID(); ?>">											<!--À MODIFIER!!-->
 			<h1><?php the_title(); ?></h1>
-			<div class="entry">
+			<div class="entry">											<!--À MODIFIER!!-->
 				<?php
 				//On affiche quoi pour le corps du contenu ?
 				the_content();
@@ -36,7 +37,7 @@
 		?>
 
 	<?php endif; ?>
-</div><!-- fin div contenu -->
+</div><!-- fin div corps -->
 
 <?php get_sidebar(); ?>
 <?php get_footer(); ?>

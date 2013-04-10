@@ -8,10 +8,14 @@ création de site HTML5 propre.
 Le fichier function.php sera le plus neutre possible; pour 
 l'améliorer à sa sauce il suffira d'y ajouter des raccourcis.
 
+<<<<<<< HEAD
 Se servir du wp-framework comme base, puis créer un thème 
 enfant du framework.
 Par exemple pour la page d'accueil.
 
+=======
+Se servir du wp-framework comme base, puis créer un thème enfant du framework.
+>>>>>>> modification framework
 
 
 *****************************************************************
@@ -21,13 +25,15 @@ Par exemple pour la page d'accueil.
 *****************************************************************
 
 I	- body
-II	- page
-III	- header
-IV	- nav
-V	- section
-VI	- article
-VII	- aside
-VIII- footer
+II	- 	page
+III	- 		header
+IV	- 			nav
+V	- 		corps
+VI	- 			section
+VII	- 			article
+VIII- 			aside
+IX  - 		footer
+
 
 Largeur de base du site = 960px
 L'ajout d'une autre section ne correspond pas au framework mais
@@ -39,7 +45,7 @@ L'ajout d'une autre section ne correspond pas au framework mais
 *																*
 *****************************************************************
 
- - v1.0.0 :  version initiale - page HTML5 -
+ - v0.1.0 :  version initiale - page HTML5 -
 
 
 

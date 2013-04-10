@@ -1,8 +1,11 @@
-<!--footer-->
+</div> 
+<!-- fin div corps -->
 
-<footer>
-
-				<section id="pied1">
+	<!--footer-->
+	
+	<footer>
+	
+					<section id="pied1">
 					<h3>Webups</h3>
 			            	<ul class="menu-pied">
 			            	    <li><a href="http://www.webups.fr#website">Créations web</a></li>
@@ -13,7 +16,7 @@
 	            	
 				
             	</section>
-            	<section id="pied2">
+	            	<section id="pied2">
 	            	<h3 id="contacts">contact</h3>
 		            	<ul id="social" class="menu-pied">
 						    <li ><a class="twitter" href="http://twitter.com/webups/"><span></span>twitter</a></li>
@@ -23,7 +26,7 @@
 						
 						</ul>
             	</section>
-            	<section id="pied3">
+	            	<section id="pied3">
             		<h3>Mini formulaire</h3>
 	            	<form method="post" action="index.php">
         
@@ -44,7 +47,7 @@
 	            	
 	            	
             	</section>
-            	<section id="pied4">
+	            	<section id="pied4">
             		<h3>En savoir +</h3>
 			            	<ul class="menu-pied">
 			            	    <li><a href="http://www.webups.fr/mentions-legales">Mentions légales</a></li>
@@ -55,20 +58,15 @@
 	            	
 		            
 	            	
-            	</section>
-            	
+            	</section>            	
+	</footer>
+	<!--End Footer-->
+	
+	<?php wp_footer(); ?>
+	<section id="copyright"><h4>Copyright <?php vraidates_copyright(); ?> Webups • Tous droits réservés.</h4></section>
 
-            	<div id="logo-pied"><h4>WEBUPS</h4></div>
-            	<div id="copyright"><h4>Copyright <?php vraidates_copyright(); ?> Webups • Tous droits réservés.</h4></div>
-            	
-</footer><!--End Footer-->
-</section><!-- fermeture page blanche -->
-
-
-<?php wp_footer(); ?>
-
-
-</div><!--Fin blocPage-->
+</div>
+<!--Fin Page-->
 
 </body>
 </html>

@@ -1,14 +1,14 @@
 <?php get_header(); ?>
 
 <!-- debut div contenu -->
-<section id="page-blanche">
+<section id="page-blanche">											
 
-<div id="contenu">
+<div id="corps">											
 <?php fil_ariane();?>
 
 	<?php if(have_posts()) : while(have_posts()) : the_post(); ?>
 
-		<div class="post" id="post-<?php the_ID(); ?>">
+		<div class="post" id="post-<?php the_ID(); ?>">				
 			<h1><?php the_title(); ?></h1>
 			<!--<div class="postmetadata">
 			Auteur : <?php the_author(); ?>.<br />
@@ -35,7 +35,7 @@
 				?>
 				
 			</div>
-			<div class="signature_article">
+			<div class="signature_article">											<!--À MODIFIER!!-->
 			Auteur : <?php the_author(); ?>.<br />
 			Mots clés : <?php the_tags(', '); ?>.<br />
 			Publié dans <?php the_category(', ') ?>.<br />
@@ -59,7 +59,7 @@
 		?>
 
 	<?php endif; ?>
-</div><!-- fin div contenu -->
+</div><!-- fin div corps -->
 
 <?php get_sidebar(); ?>
 <?php get_footer(); ?>

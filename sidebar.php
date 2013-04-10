@@ -4,11 +4,11 @@
 
 ?>
 <!-- debut div barre1 -->
-<div id="barre1">
+<aside id="barre1">
 	<?php dynamic_sidebar( 'barre1' );?>
-</div><!-- fin div barre1 -->
+</aside><!-- fin aside barre1 -->
 
 <!-- debut div barre2 -->
-<div id="barre2">
+<aside id="barre2">
 	<?php //dynamic_sidebar( 'barre2' );?>
-</div><!-- fin div barre2 -->
+</aside><!-- fin aside barre2 -->
