@@ -1,0 +1,31 @@
+  __________________________________________________________
+                       WP_CHASSIS
+   Mon thème de développement Wordpress léger et performant
+  __________________________________________________________
+
+
+Ce thème est à la base de tous mes thème wordpress, il est donc
+le plus simple et polyvalent possible.
+Je le tiens à jour régulièrement pour pouvoir profiter des 
+dernières techniques en design et développement web.
+
+Pour plus d'informations, merci de visiter:
+
+http://fl0rent.github.io/wp_chassis/
+
+Auteur: Florent parcevaux
+
+_______________________________________________________________
+
+
+WP_CHASSIS CHANGE LOG & HISTORY
+=====================
+
+
+v0.1.0:
+
+ - version initiale 
+ - recherche sur mes besoins et réfléxions
+ - croquis d'un chassis pouvant s'adapter à toutes les solutions
+ - début écriture du mode d'emploi du framework
+
