@@ -23,11 +23,8 @@ Je le tiens à jour régulièrement pour pouvoir profiter des
 dernières techniques en design et développement web.
 
 
-### Designed by Florent Parcevaux
-[http://fl0rent.github.io/wp_chassis/](http://fl0rent.github.io/wp_chassis/)
-
-
-### Copyright:
+- Designed by Florent Parcevaux
+- [http://fl0rent.github.io/wp_chassis/](http://fl0rent.github.io/wp_chassis/)
 - License:  
 - License URI: http://
 
@@ -38,22 +35,21 @@ Tous les développeurs OpenSource qui m'ont fournit l'inspiration
 pour le code.
 
 
-Submit Bugs & or Fixes:
-=======================
 
-https://github.com/fl0rent/wp_chassis/issues
+### Submit Bugs & or Fixes:
+
+[https://github.com/fl0rent/wp_chassis/issues](https://github.com/fl0rent/wp_chassis/issues)
 
 ## COMMENT FAIRE
 
 Tous ce qui concerne les nouveautés et mises à jour se trouve dans 
-le fichier: documentation/log.txt
+le fichier: documentation/**log.txt**
 
-Le fichier function.php est le plus neutre possible; pour 
+Le fichier **function.php** est le plus neutre possible; pour 
 l'améliorer à sa sauce il suffira d'y ajouter des raccourcis.
 
-Pour bien s'en servir, il faut partir avec WP_Châssis comme base,
-puis créer un thème enfant. Il est vraiment conçu pour démarrer
-un projet.
+Pour bien s'en servir, il faut partir avec WP_Châssis comme base, puis créer un thème enfant. 
+Il est vraiment conçu pour démarrer un projet, et non pas comme un thème utilisable directement.
 
 
 ## STRUCTURE DU CHÂSSIS	
@@ -72,6 +68,49 @@ un projet.
 Largeur de base du site = 960px
 
 ## ARBORESCENCE DES FICHIERS DU CHÂSSIS	
+
+#### les dossiers:
+
+- **documentation**
+- **feeds** (rss/atom)
+- **images**
+- **polices**
+- **scripts** (javascript)
+- **style** (CSS)
+	- **style.css** - aspect du site
+	- **reset.css** - remise à zéro du css pour les navigateurs
+- **translation**
+
+#### les fichiers:
+
+**404.php** - page d'erreur
+**archive.php** - page d'archive
+**comments.php** - commentaires et formulaires de commentaire
+**footer.php** - pied de page du blog
+**functions.php** - option du thème
+**header.php** - informations de l'entête du blog
+**index.php** - contenu du blog
+**page.php** - page seule
+**README.md** - toutes les infos utiles du thème
+**screenshots.png** - 300x240px
+**search.php** - résultat d'une recherche
+**sidebar.php** - colonne latéral du blog
+**single.php** - contenu de l'article
+
+
+home.php - page d'accueil spécifique
+tag.php - page de tags
+category.php - afficher une catégorie seule
+[nom de la page].php - page précise
+author.php - données liés à un auteur
+date.php - articles par date précise
+image.php - type de médias
+video.php - type de médias
+audio.php - type de médias
+application.php - type de médias
+
+
+
 
 
 
