@@ -5,7 +5,9 @@
 
 **Ce framework me sert de base la plus simple possible pour la 
 création de site HTML5 propre.**
+
 ===
+
 ## Genèse:
 
 Pour mes projets web, j'ai fait le choix de coder intégralement 
