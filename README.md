@@ -2,8 +2,7 @@
 Mon thème de développement pour Wordpress.
 
 _______________________________________________________________
-
-			** release early, release often **
+			       ** release early, release often **
 _______________________________________________________________
 
 
@@ -11,7 +10,7 @@ Ce framework me sert de base la plus simple possible pour la
 création de site HTML5 propre.
 
 ## Genèse:
-===========
+===
 
 Pour mes projets web, j'ai fait le choix de coder intégralement 
 mon propre framework, uniquement pour mettre les mains dans le 
@@ -51,12 +50,7 @@ Submit Bugs & or Fixes:
 
 https://github.com/fl0rent/wp_chassis/issues
 
-
-*****************************************************************
-*																*
-*						COMMENT FAIRE							*
-*																*
-*****************************************************************
+## COMMENT FAIRE
 
 Tous ce qui concerne les nouveautés et mises à jour se trouve dans 
 le fichier: documentation/log.txt
@@ -69,13 +63,9 @@ puis créer un thème enfant. Il est vraiment conçu pour démarrer
 un projet.
 
 
-*****************************************************************
-*																*
-*					STRUCTURE DU CHÂSSIS						*
-*																*
-*****************************************************************
+## STRUCTURE DU CHÂSSIS	
 
-I	- body
+I. body
 II	- 	page
 III	- 		header
 IV	- 			nav
@@ -88,11 +78,7 @@ IX  - 		footer
 
 Largeur de base du site = 960px
 
-*****************************************************************
-*																*
-*					ARBORESCENCE DU CHÂSSIS						*
-*																*
-*****************************************************************
+## ARBORESCENCE DU CHÂSSIS	
 
 
 
