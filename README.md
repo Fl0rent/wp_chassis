@@ -1,4 +1,4 @@
-Thème : WP_Châssis
+# Thème : WP_Châssis
 Mon thème de développement pour Wordpress.
 
 _______________________________________________________________
@@ -10,8 +10,8 @@ _______________________________________________________________
 Ce framework me sert de base la plus simple possible pour la 
 création de site HTML5 propre.
 
-Genèse:
-=======
+## Genèse:
+===========
 
 Pour mes projets web, j'ai fait le choix de coder intégralement 
 mon propre framework, uniquement pour mettre les mains dans le 
@@ -30,7 +30,7 @@ dernières techniques en design et développement web.
 Designed by Florent Parcevaux
 ==============================
 
-http://fl0rent.github.io/wp_chassis/
+[http://fl0rent.github.io/wp_chassis/](http://fl0rent.github.io/wp_chassis/)
 
 
 Ce thème utilise la licence:
@@ -39,8 +39,8 @@ Ce thème utilise la licence:
 License:  
 License URI: http://
 
-Remerciements:
-==============
+## Remerciements:
+==================
 
 Tous les développeurs OpenSource qui m'ont fournit l'inspiration 
 pour le code.
