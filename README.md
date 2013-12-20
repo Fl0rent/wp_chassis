@@ -1,16 +1,12 @@
 # Thème : WP_Châssis
-Mon thème de développement pour Wordpress.
+> Mon thème de développement pour Wordpress.
 
-_______________________________________________________________
 			       ** release early, release often **
-_______________________________________________________________
 
-
-Ce framework me sert de base la plus simple possible pour la 
-création de site HTML5 propre.
-
-## Genèse:
+**Ce framework me sert de base la plus simple possible pour la 
+création de site HTML5 propre.**
 ===
+## Genèse:
 
 Pour mes projets web, j'ai fait le choix de coder intégralement 
 mon propre framework, uniquement pour mettre les mains dans le 
@@ -18,27 +14,22 @@ cambouis, et donc apprendre davantage.
 
 Il existe des frameworks qui sont techniquement plus avancé avec
 une grosse communauté derrière. Mais ce n'est pas mon but.
-Les commentaires et textes seront en français, car la plupart des
-autres framework sont en anglais. Autant créer un projet 
+**Les commentaires et textes seront en français**, car la plupart des autres framework sont en anglais. Autant créer un projet 
 francophone.
 
 Je le tiens à jour régulièrement pour pouvoir profiter des 
 dernières techniques en design et développement web.
 
 
-Designed by Florent Parcevaux
-==============================
-
+### Designed by Florent Parcevaux
 [http://fl0rent.github.io/wp_chassis/](http://fl0rent.github.io/wp_chassis/)
 
 
-Ce thème utilise la licence:
-============================
+### Copyright:
+- License:  
+- License URI: http://
 
-License:  
-License URI: http://
-
-## Remerciements:
+### Remerciements:
 ==================
 
 Tous les développeurs OpenSource qui m'ont fournit l'inspiration 
@@ -65,20 +56,20 @@ un projet.
 
 ## STRUCTURE DU CHÂSSIS	
 
-I. body
-II	- 	page
-III	- 		header
-IV	- 			nav
-V	- 		corps
-VI	- 			section
-VII	- 			article
-VIII- 			aside
-IX  - 		footer
+1. body
+2. page
+3. header
+4. nav
+5. corps
+6. section
+7. article
+8. aside
+9. footer
 
 
 Largeur de base du site = 960px
 
-## ARBORESCENCE DU CHÂSSIS	
+## ARBORESCENCE DES FICHIERS DU CHÂSSIS	
 
 
 
