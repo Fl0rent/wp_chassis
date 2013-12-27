@@ -24,7 +24,7 @@ Je le tiens à jour régulièrement pour pouvoir profiter des
 dernières techniques en design et développement web.
 
 En fait, je me retrouve exactement dans la description faite sur le site du [codex de Wordpress](http://codex.wordpress.org/Theme_Development):
----
+
 > Why should you build your own WordPress Theme? That's the real question.
 
 > - It's an opportunity to learn more about CSS, HTML, and PHP.
