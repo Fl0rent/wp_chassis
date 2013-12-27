@@ -22,6 +22,16 @@ francophone.
 Je le tiens à jour régulièrement pour pouvoir profiter des 
 dernières techniques en design et développement web.
 
+En fait, je me retrouve exactement dans la description faite sur le site du [codex de Wordpress](http://codex.wordpress.org/Theme_Development):
+---
+> Why should you build your own WordPress Theme? That's the real question.
+
+> - It's an opportunity to learn more about CSS, HTML, and PHP.
+> - It's an opportunity to put your expertise with CSS, HTML, and PHP to work.
+> - It's creative.
+> - It's fun (most of the time).
+> - If you release it to the public, you can feel good that you shared and gave something back to the WordPress Community (okay, bragging rights)
+---
 
 - Designed by Florent Parcevaux
 - [http://fl0rent.github.io/wp_chassis/](http://fl0rent.github.io/wp_chassis/)
