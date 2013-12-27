@@ -32,6 +32,7 @@ En fait, je me retrouve exactement dans la description faite sur le site du [cod
 > - It's creative.
 > - It's fun (most of the time).
 > - If you release it to the public, you can feel good that you shared and gave something back to the WordPress Community (okay, bragging rights)
+
 ---
 
 Designed by Florent Parcevaux
