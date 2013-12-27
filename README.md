@@ -1,7 +1,7 @@
 # Thème : WP_Châssis
 > Mon thème de développement pour Wordpress.
 
-			       ** release early, release often **
+			                		  ** release early, release often **
 
 **Ce framework me sert de base la plus simple possible pour la 
 création de site HTML5 propre.**
@@ -15,9 +15,10 @@ mon propre framework, uniquement pour mettre les mains dans le
 cambouis, et donc apprendre davantage.
 
 Il existe des frameworks qui sont techniquement plus avancé avec
-une grosse communauté derrière. Mais ce n'est pas mon but.
-**Les commentaires et textes seront en français**, car la plupart des autres framework sont en anglais. Autant créer un projet 
-francophone.
+une grosse communauté derrière. Mais ce n'est pas mon but. 
+
+Les commentaires et textes seront en français, car la plupart des autres framework sont en anglais. 
+Autant créer un projet francophone.
 
 Je le tiens à jour régulièrement pour pouvoir profiter des 
 dernières techniques en design et développement web.
@@ -33,22 +34,25 @@ En fait, je me retrouve exactement dans la description faite sur le site du [cod
 > - If you release it to the public, you can feel good that you shared and gave something back to the WordPress Community (okay, bragging rights)
 ---
 
-- Designed by Florent Parcevaux
-- [http://fl0rent.github.io/wp_chassis/](http://fl0rent.github.io/wp_chassis/)
-- License:  
-- License URI: http://
+Designed by Florent Parcevaux
+
+[http://fl0rent.github.io/wp_chassis/](http://fl0rent.github.io/wp_chassis/)
+
+License:  
+License URI: http://
 
 ### Remerciements:
-==================
 
 Tous les développeurs OpenSource qui m'ont fournit l'inspiration 
 pour le code.
 
 
-
 ### Submit Bugs & or Fixes:
 
 [https://github.com/fl0rent/wp_chassis/issues](https://github.com/fl0rent/wp_chassis/issues)
+
+
+----------------------------------------------------------------------------------------------------
 
 ## COMMENT FAIRE
 
@@ -60,6 +64,8 @@ l'améliorer à sa sauce il suffira d'y ajouter des raccourcis.
 
 Pour bien s'en servir, il faut partir avec WP_Châssis comme base, puis créer un thème enfant. 
 Il est vraiment conçu pour démarrer un projet, et non pas comme un thème utilisable directement.
+
+Largeur de base du site = 960px
 
 
 ## STRUCTURE DU CHÂSSIS	
@@ -74,8 +80,6 @@ Il est vraiment conçu pour démarrer un projet, et non pas comme un thème util
 8. aside
 9. footer
 
-
-Largeur de base du site = 960px
 
 ## ARBORESCENCE DES FICHIERS DU CHÂSSIS	
 
@@ -93,31 +97,31 @@ Largeur de base du site = 960px
 
 #### les fichiers:
 
-**404.php** - page d'erreur
-**archive.php** - page d'archive
-**comments.php** - commentaires et formulaires de commentaire
-**footer.php** - pied de page du blog
-**functions.php** - option du thème
-**header.php** - informations de l'entête du blog
-**index.php** - contenu du blog
-**page.php** - page seule
-**README.md** - toutes les infos utiles du thème
-**screenshots.png** - 300x240px
-**search.php** - résultat d'une recherche
-**sidebar.php** - colonne latéral du blog
-**single.php** - contenu de l'article
+- **404.php** - page d'erreur
+- **archive.php** - page d'archive
+- **comments.php** - commentaires et formulaires de commentaire
+- **footer.php** - pied de page du blog
+- **functions.php** - option du thème
+- **header.php** - informations de l'entête du blog
+- **index.php** - contenu du blog
+- **page.php** - page seule
+- **README.md** - toutes les infos utiles du thème
+- **screenshots.png** - 300x240px
+- **search.php** - résultat d'une recherche
+- **sidebar.php** - colonne latéral du blog
+- **single.php** - contenu de l'article
 
 
-home.php - page d'accueil spécifique
-tag.php - page de tags
-category.php - afficher une catégorie seule
-[nom de la page].php - page précise
-author.php - données liés à un auteur
-date.php - articles par date précise
-image.php - type de médias
-video.php - type de médias
-audio.php - type de médias
-application.php - type de médias
+- home.php - page d'accueil spécifique
+- tag.php - page de tags
+- category.php - afficher une catégorie seule
+- [nom de la page].php - page précise
+- author.php - données liés à un auteur
+- date.php - articles par date précise
+- image.php - type de médias
+- video.php - type de médias
+- audio.php - type de médias
+- application.php - type de médias
 
 
 
