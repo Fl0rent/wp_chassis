@@ -19,13 +19,13 @@ _______________________________________________________________
 
 
 WP_CHASSIS CHANGE LOG & HISTORY
-=====================
+================================
 
 
 v0.1.0:
 
- - version initiale 
- - recherche sur mes besoins et réfléxions
+ - version initiale en local
+ - recherche sur mes besoins et réflexions
  - croquis d'un chassis pouvant s'adapter à toutes les solutions
  - début écriture du mode d'emploi du framework
 
